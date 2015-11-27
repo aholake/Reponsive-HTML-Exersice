@@ -1955,3 +1955,166 @@ h4.margin_top_depilation
 	margin-top:10px;
 }
 /*end Duy*/
+
+/*begin Loc */
+h1.big-title {
+	display:block;
+	font-size: 25px;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background: #c9c7c7;
+	padding-left: 5px;
+}
+
+h1.medium-title {
+	display: block;
+	font-size: 18px;
+	width: 100%;
+	height: 35px;
+	padding-left: 5px;
+	background: #dbd9d9;
+	line-height: 35px;
+}
+
+.content-item {
+	text-align: left;
+	margin-bottom: 50px;
+}
+
+.content-item .content-row-1{
+	width: 550px;
+	margin: auto;
+}
+
+.content-item a.button {
+	display: block;
+	margin: 10px auto;
+	background: #b5b1b1;
+	width: 250px;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	color: #000;
+}
+.content-item h5 {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.content-1 {
+	overflow: auto;
+}
+.content-1 > .text {
+	float: left;
+}
+/*HEAD*/
+.content-1 span.title {
+	display: block;
+	font-size: 18px;
+	text-align: left;
+	margin-left: 30px;
+}
+
+.content-1 > img {
+	float: right;
+}
+
+.content-1 ul {
+	text-align: left;
+	margin-left: 45px;
+	list-style-type: disc;
+}
+
+.content-item label.title {
+	font-weight: bold;
+}
+
+
+.content-item img.gallery-img {
+	margin: 15px 5px;
+	float: left;
+}
+.news-item-1 {
+	width: 700px;
+	margin-top: 8px;
+	overflow: auto;
+}
+
+.news-item-1 img.thumbnail {
+	float: left;
+	width: 260px;
+	height: 188px;
+}
+.news-item-1 .content-tag {
+	float: left;
+	margin-left: 5px;
+	width: 430px;
+}
+.news-item-1 p {
+	margin-bottom: 8px;
+	text-align: left;
+}
+.news-item-1 label.price {
+	display: block;
+	font-weight: bold;
+	font-size: 14pt;
+	margin-bottom: 8px;
+}
+.news-item-1 span.strong {
+	font-weight: bold;
+}
+.news-item-1 a.button {
+	width: 200px;
+	background: #C2C2C2;
+	display: block;
+	margin: auto;
+	height: 30px;
+	line-height: 30px;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+/*===========*/
+.news-item {
+	width: 700px;
+	margin-bottom: 10px;
+	overflow: auto;
+}
+
+.news-item img.thumbnail {
+	float: left;
+	width: 260px;
+	height: 188px;
+}
+.news-item .content-tag {
+	float: left;
+	margin-left: 5px;
+	width: 430px;
+}
+.news-item p {
+	margin-bottom: 8px;
+	text-align: left;
+}
+.news-item label.price {
+	display: block;
+	font-weight: bold;
+	font-size: 14pt;
+	margin-bottom: 8px;
+	text-align: center;
+}
+.news-item span.strong {
+	font-weight: bold;
+}
+.news-item a.button {
+	width: 200px;
+	background: #C2C2C2;
+	display: block;
+	margin: auto;
+	height: 30px;
+	line-height: 30px;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+/*end Loc */
